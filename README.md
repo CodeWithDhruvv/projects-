@@ -5,5 +5,5 @@ I'm Dhruv, a Computer Science student at University College Dublin (UCD). I'm pa
 🌟 What I Do:
 •	📚 Learning and exploring new technologies in software development, data science, and machine learning.
 •	💻 Currently enhancing my skills in  Python.
-•	🛠️ Committed to regularly uploading Python projects as part of my 100 Days of Code challenge.
+
 
